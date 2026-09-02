@@ -1,0 +1,8 @@
+title: "作品タイトル"
+summary: |
+  ここにあらすじを書きます。
+tags: []
+# cover: assets/cover.png
+comments: true
+# AI利用の明示は推奨です（例: "文章: Claude / 挿絵: codex"）
+# ai_disclosure: ""
