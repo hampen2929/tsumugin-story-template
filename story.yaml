@@ -1,8 +1,11 @@
 title: "作品タイトル"
+# slug: my-story            # 任意。公開URLの一部（[a-z0-9-]+）。既定はディレクトリ名。一度公開したら変えない
 summary: |
   ここにあらすじを書きます。
+# genre: ファンタジー         # 任意
 tags: []
-# cover: assets/cover.png
+# status: ongoing            # 任意。ongoing（連載中）/ completed（完結）
+# cover: assets/cover.png    # 任意。2:3 の縦長（推奨 1200×1800）で作ると全画面で枠いっぱいに表示される
 comments: true
 # AI利用の明示は推奨です（例: "文章: Claude / 挿絵: codex"）
 # ai_disclosure: ""
